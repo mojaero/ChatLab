@@ -8,6 +8,8 @@ namespace ChatLab
     public class Program
     {
         public void Main(string[] args)
+
+            //So we're going to use DNX to do some Node-like magic....       
         {
         }
     }
