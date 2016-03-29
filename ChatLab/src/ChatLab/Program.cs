@@ -9,7 +9,7 @@ namespace ChatLab
     {
         public void Main(string[] args)
 
-            //So we're going to use DNX to do some Node-like magic....       
+            //So we're going to use DNX to do some Node-like magic       
         {
         }
     }
